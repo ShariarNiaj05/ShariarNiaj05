@@ -55,6 +55,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 
 ### 1) Soul Mate Connect: A full-stack Matrimony website
 [Live Site](https://soul-mate-connect.web.app) |  [Client Code](https://github.com/ShariarNiaj05/Soul-Mate-Connect-Client) | [Server Code](https://github.com/ShariarNiaj05/Soul-Mate-Connect-Server)
+
 **Technologies:** React, React Router Dom, Material UI, Stripe, Firebase, MongoDB, Tailwind, Express, Node
 
 **Features:** 
@@ -75,7 +76,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 * Registered users can manage their added food, and confirm their food request.
 
 
-### 2) Vehi Verse: A Automotive Website With Simple CRUD Operation
+### 3) Vehi Verse: A Automotive Website With Simple CRUD Operation
 [Live Site](https://vehiverse.web.app/) |  [Client Code](https://github.com/ShariarNiaj05/Vehi-Verse-Client) | [Server Code](https://github.com/ShariarNiaj05/Vehi-Verse-Server)
 
 **Technologies:** React, React Router Dom, Firebase, MongoDB, Tailwind, Express, Node
