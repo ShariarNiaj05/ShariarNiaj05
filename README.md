@@ -9,7 +9,7 @@
  
 
 ## Connect Online
-[<p align="center"><img href="mailto:shariarn85@gmail.com" height="75" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/gmail.png">](<mailtto:shariarn85@gmail.com>
+[<p align="center"><img href="mailto:shariarn85@gmail.com" height="75" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/gmail.png">](mailto:shariarn85@gmail.com
 )[<img height="75" src="https://github.com/ShariarNiaj05/ShariarNiaj05/blob/main/images/linkedin.png?raw=true">](https://www.linkedin.com/in/shariar-islam-niaj)[<img height="75" src="https://github.com/ShariarNiaj05/ShariarNiaj05/blob/main/images/x-logo.png?raw=true"> </p>](https://twitter.com/Shariar_Niaj) 
 
 <!-- <span align="center">
