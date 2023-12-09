@@ -45,3 +45,10 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 </p>
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,mongodb,nodejs,expressjs)](https://skillicons.dev) -->
+
+
+## Work Synopsis 
+
+I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind CSS, and JavaScript. Proficient in React and React Router DOM, Firebase for seamless front-end experiences, I integrate APIs, and MongoDB with Node.js and Express.js on the backend. My work revolves around creating secured, responsive, and feature-rich digital solutions.
+
+## Project Overview 
