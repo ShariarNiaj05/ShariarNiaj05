@@ -12,9 +12,16 @@
 [<p align="center"><img height="75" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/gmail.png">](<shariarn85@gmail.com>
 )[<img height="75" src="https://github.com/ShariarNiaj05/ShariarNiaj05/blob/main/images/linkedin.png?raw=true">](https://www.linkedin.com/in/shariar-islam-niaj)[<img height="75" src="https://github.com/ShariarNiaj05/ShariarNiaj05/blob/main/images/x-logo.png?raw=true"> </p>](https://twitter.com/Shariar_Niaj) [![Gmail](https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/gmail.png)](mailto:shariarn85@gmail.com)
 
+<p align="center">
+  <a href="mailto:shariarn85@gmail.com">
+    <img height="75" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/gmail.png"> 
+  </a>
+</p>
+
 ## Current Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShariarNiaj05&theme=dark&card_width=700&background=45%2C1D020A%2C56061E&border=EB9C84)](https://git.io/streak-stats)
+
 
 
 
