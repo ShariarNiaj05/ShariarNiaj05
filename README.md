@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 
 ![Github Cover Image!](https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/github-cover-image.png "Shariar Islam Github Cover Image")
 
-## Contacts
-<!-- [<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_) -->
+## Connect Online
+[<p align="center"><img height="75" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/gmail.png">](mailto:shariarn85@gmail.com
+)[<img height="75" src="https://github.com/ShariarNiaj05/ShariarNiaj05/blob/main/images/linkedin.png?raw=true">](https://www.linkedin.com/in/shariar-islam-niaj)[<img height="75" src="https://github.com/ShariarNiaj05/ShariarNiaj05/blob/main/images/x-logo.png?raw=true"> </p>](https://twitter.com/Shariar_Niaj)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShariarNiaj05&theme=dark&card_width=700&background=45%2C1D020A%2C56061E&border=EB9C84)](https://git.io/streak-stats)
 
