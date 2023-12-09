@@ -10,7 +10,7 @@ Welcome to my GitHub space where I bring ideas to life through lines of code. Fe
 
 I'm Shariar Islam, a web developer with a passion for bringing ideas to life through code. I enjoy the intricacies of web development, creating visually appealing and functional digital spaces. 
 
-In the ever-evolving web landscape, my vision is to contribute to user-friendly and accessible digital experiences. I aim to bridge the gap between creativity and technology, ensuring that every line of code I write serves a purpose in delivering seamless web solutions. Let's embark on this coding journey together! 🌐💻
+In the ever-evolving web landscape, my vision is to contribute to user-friendly and accessible digital experiences. I aim to bridge the gap between creativity and technology, ensuring that every line of code I write serves a purpose in delivering seamless web solutions. Let's embark on this coding journey together!
 
 
 
@@ -51,4 +51,37 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 
 I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind CSS, and JavaScript. Proficient in React and React Router DOM, Firebase for seamless front-end experiences, I integrate APIs, and MongoDB with Node.js and Express.js on the backend. My work revolves around creating secured, responsive, and feature-rich digital solutions.
 
-## Project Overview 
+## About Recent Projects & Depth Overview
+
+### 1) Soul Mate Connect: A full-stack Matrimony website
+[Live Site](https://soul-mate-connect.web.app) |  [Client Code](https://github.com/ShariarNiaj05/Soul-Mate-Connect-Client) | [Server Code](https://github.com/ShariarNiaj05/Soul-Mate-Connect-Server)
+**Technologies:** React, React Router Dom, Material UI, Stripe, Firebase, MongoDB, Tailwind, Express, Node
+
+**Features:** 
+
+* Register users can add their biodata, can make their biodata premium (admin approval required).
+* Users can add any biodata in their favorites collection, and can request any contact information (after paying 500 bdt).
+* Admin can make any user to premium(don’t need to request for contact information) or admin
+
+### 2) Hunger Help Net: A full-stack Food Donation website
+[Live Site](https://hunger-help-net.web.app) |  [Client Code](https://github.com/ShariarNiaj05/Hunger-Help-Net-Client) | [Server Code](https://github.com/ShariarNiaj05/Hunger-Help-Net-Server)
+
+**Technologies:** React, React Router Dom, Firebase, MongoDB, Tailwind, Express, Node
+
+**Features:** 
+
+* Register users can add food donations.
+* Logged in users can request for food.
+* Registered users can manage their added food, and confirm their food request.
+
+
+### 2) Vehi Verse: A Automotive Website With Simple CRUD Operation
+[Live Site](https://vehiverse.web.app/) |  [Client Code](https://github.com/ShariarNiaj05/Vehi-Verse-Client) | [Server Code](https://github.com/ShariarNiaj05/Vehi-Verse-Server)
+
+**Technologies:** React, React Router Dom, Firebase, MongoDB, Tailwind, Express, Node
+
+**Features:** 
+
+* New visitor can register to our website 
+* A register user can add product, edit product and delete product.
+* A register user can see a product details, and can add the product in the cart.
