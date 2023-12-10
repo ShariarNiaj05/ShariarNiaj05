@@ -70,12 +70,12 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
   <!-- First Profile Details Card -->
   <div style="flex: 1;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShariarNiaj05&theme=ocean_dark" alt="Repos per Language">
+  </div>  <div style="flex: 1;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShariarNiaj05&theme=ocean_dark" alt="Most Commit Language">
   </div>
 
   <!-- Second Profile Details Card -->
-  <div style="flex: 1;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShariarNiaj05&theme=ocean_dark" alt="Most Commit Language">
-  </div>
+  
 
 </div>
 
