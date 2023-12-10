@@ -65,22 +65,22 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShariarNiaj05&theme=ocean_dark" alt="Profile Details">
 </p>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
 
   <!-- First Profile Details Card -->
-  <div style="flex: 1; padding: 10px;">
+  <div style="flex: 1;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShariarNiaj05&theme=ocean_dark" alt="Repos per Language">
   </div>
 
   <!-- Second Profile Details Card -->
-  <div style="flex: 1; padding: 10px;">
+  <div style="flex: 1;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShariarNiaj05&theme=ocean_dark" alt="Most Commit Language">
   </div>
 
 </div>
 
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
 
   <!-- First Profile Summary Card -->
   <div style="margin-right: 10px;">
