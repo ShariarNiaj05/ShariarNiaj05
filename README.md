@@ -36,6 +36,8 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShariarNiaj05&theme=dark&card_width=700&background=45%2C1D020A%2C56061E&border=EB9C84)](https://git.io/streak-stats)
 
+
+
 ## My Skills
 
 <p align="center">
@@ -50,6 +52,11 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 ## Work Synopsis 
 
 I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind CSS, and JavaScript. Proficient in React and React Router DOM, Firebase for seamless front-end experiences, I integrate APIs, and MongoDB with Node.js and Express.js on the backend. My work revolves around creating secured, responsive, and feature-rich digital solutions.
+
+## Overall Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShariarNiaj05&theme=ocean_dark)
+
+
 
 ## About Recent Projects & Depth Overview
 
