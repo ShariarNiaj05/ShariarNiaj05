@@ -54,7 +54,11 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind CSS, and JavaScript. Proficient in React and React Router DOM, Firebase for seamless front-end experiences, I integrate APIs, and MongoDB with Node.js and Express.js on the backend. My work revolves around creating secured, responsive, and feature-rich digital solutions.
 
 ## Overall Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShariarNiaj05&theme=ocean_dark)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShariarNiaj05&theme=ocean_dark" alt="Profile Details">
+</p>
+
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShariarNiaj05&theme=ocean_dark) -->
 
 
 
