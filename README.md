@@ -34,7 +34,14 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 
 ## Current Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShariarNiaj05&theme=dark&card_width=700&background=45%2C1D020A%2C56061E&border=EB9C84)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShariarNiaj05&theme=dark&card_width=700&background=45%2C1D020A%2C56061E&border=EB9C84)](https://git.io/streak-stats) -->
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ShariarNiaj05&theme=dark&card_width=700&background=45%2C1D020A%2C56061E&border=EB9C84" alt="GitHub Streak">
+  </a>
+</p>
+
 
 
 
@@ -58,8 +65,32 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShariarNiaj05&theme=ocean_dark" alt="Profile Details">
 </p>
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShariarNiaj05&theme=ocean_dark) -->
+<div align="center">
+  <!-- First Profile Details Card -->
+  <div style="flex: 50%; padding: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShariarNiaj05&theme=ocean_dark" alt="Repos per Language">
+  </div>
 
+  <!-- Second Profile Details Card -->
+  <div style="flex: 50%; padding: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShariarNiaj05&theme=ocean_dark" alt="Most Commit Language">
+  </div>
+</div>
+
+
+<div style="display: flex; justify-content: center; align-items: center;">
+
+  <!-- First Profile Summary Card -->
+  <div style="margin-right: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShariarNiaj05&theme=ocean_dark" alt="GitHub Stats">
+  </div>
+
+  <!-- Second Profile Summary Card -->
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShariarNiaj05&theme=ocean_dark&utcOffset=6" alt="Productive Time">
+  </div>
+
+</div>
 
 
 ## About Recent Projects & Depth Overview
