@@ -70,12 +70,12 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
   <!-- First Profile Details Card -->
   <div style="flex: 1;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShariarNiaj05&theme=ocean_dark" alt="Repos per Language">
-  </div>  <div style="flex: 1;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShariarNiaj05&theme=ocean_dark" alt="Most Commit Language">
-  </div>
+  </div>  
 
   <!-- Second Profile Details Card -->
-  
+  <div style="flex: 1;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShariarNiaj05&theme=ocean_dark" alt="Most Commit Language">
+  </div>
 
 </div>
 
@@ -130,3 +130,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 * New visitor can register to our website 
 * A register user can add product, edit product and delete product.
 * A register user can see a product details, and can add the product in the cart.
+
+## Repository Contributions
+
+[![GitHub Trends SVG](https://api.githubtrends.io/ShariarNiaj05/svg/avgupta456/langs)](https://githubtrends.io)
