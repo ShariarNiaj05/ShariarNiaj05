@@ -131,6 +131,6 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 * A register user can add product, edit product and delete product.
 * A register user can see a product details, and can add the product in the cart.
 
-## Repository Contributions
+<!-- ## Repository Contributions
 
-[![GitHub Trends SVG](https://api.githubtrends.io/ShariarNiaj05/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/ShariarNiaj05/svg/avgupta456/langs)](https://githubtrends.io) -->
