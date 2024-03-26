@@ -52,7 +52,7 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 
 ## Frontend
 
-<img src="https://skillicons.dev/icons?i=react,tailwindcss,nextjs,materialui,firebase,redux	" />
+<img src="https://skillicons.dev/icons?i=react,tailwindcss,nextjs,materialui,firebase,redux" />
 
 ## Backend
 
