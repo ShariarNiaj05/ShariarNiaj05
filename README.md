@@ -8,11 +8,9 @@ Welcome to my GitHub space where I bring ideas to life through lines of code. Fe
 
 ## About Me & My Vision
 
-I'm Shariar Islam, a web developer with a passion for bringing ideas to life through code. I enjoy the intricacies of web development, creating visually appealing and functional digital spaces. 
+I'm Shariar Islam, a web developer with a passion for bringing ideas to life through code. I enjoy the intricacies of web development, creating visually appealing and functional digital spaces.
 
 In the ever-evolving web landscape, my vision is to contribute to user-friendly and accessible digital experiences. I aim to bridge the gap between creativity and technology, ensuring that every line of code I write serves a purpose in delivering seamless web solutions. Let's embark on this coding journey together!
-
-
 
 ## Connect Online
 
@@ -42,9 +40,6 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
   </a>
 </p>
 
-
-
-
 ## My Skills
 
 <p align="center">
@@ -55,46 +50,62 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,mongodb,nodejs,expressjs)](https://skillicons.dev) -->
 
-
-## Work Synopsis 
+## Work Synopsis
 
 I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind CSS, and JavaScript. Proficient in React and React Router DOM, Firebase for seamless front-end experiences, I integrate APIs, and MongoDB with Node.js and Express.js on the backend. My work revolves around creating secured, responsive, and feature-rich digital solutions.
 
 ## Overall Stats
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShariarNiaj05&theme=ocean_dark" alt="Profile Details">
-</p>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
+<!-- First row  -->
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- First Profile Details Card: Top Languages by Repo - GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShariarNiaj05&theme=ocean_dark" alt="Profile Details"/></td>
+  </tr>
+</table>
 
-  <!-- First Profile Details Card -->
-  <div style="flex: 1;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShariarNiaj05&theme=ocean_dark" alt="Repos per Language">
-  </div>  
+<!-- 2nd  row  -->
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- First Profile Details Card: Top Languages by Repo - GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShariarNiaj05&theme=ocean_dark" alt="Repos per Language"/></td>
+    <!-- Second Profile Details Card: Top Languages by Commit - GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShariarNiaj05&theme=ocean_dark" alt="Most Commit Language"/></td>
+  </tr>
+</table>
 
-  <!-- Second Profile Details Card -->
-  <div style="flex: 1;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShariarNiaj05&theme=ocean_dark" alt="Most Commit Language">
-  </div>
+<!-- 3rd row  -->
+<div style="display: flex; justify-content: center;"> 
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="300" width="100%" src="https://api.githubtrends.io/user/svg/ShariarNiaj05/repos?time_range=six_months&theme=dark"/></td>
+   
+  </tr>
+</table>
+</div>
+<!-- 4th row  -->
 
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- Third Profile Details Card: Top Stats -->  
+    <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShariarNiaj05&theme=ocean_dark" alt="GitHub Stats"/></td>
+    <!-- Fourth Profile Details Card: Commits -->
+     <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShariarNiaj05&theme=blueberry&utcOffset=8"/></td>
+  </tr>
+</table>
+
+<!-- 5th row  -->
+<div style="display: flex; justify-content: center;">
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariarNiaj05&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+  </tr>
+</table>
 </div>
 
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-
-  <!-- First Profile Summary Card -->
-  <div style="margin-right: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShariarNiaj05&theme=ocean_dark" alt="GitHub Stats">
-  </div>
-
-  <!-- Second Profile Summary Card -->
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShariarNiaj05&theme=ocean_dark&utcOffset=6" alt="Productive Time">
-  </div>
-
-</div>
-
-
+<!--
 ## About Recent Projects & Depth Overview
 
 ### 1) Soul Mate Connect: A full-stack Matrimony website
@@ -102,7 +113,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 
 **Technologies:** React, React Router Dom, Material UI, Stripe, Firebase, MongoDB, Tailwind, Express, Node
 
-**Features:** 
+**Features:**
 
 * Register users can add their biodata, can make their biodata premium (admin approval required).
 * Users can add any biodata in their favorites collection, and can request any contact information (after paying 500 bdt).
@@ -113,7 +124,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 
 **Technologies:** React, React Router Dom, Firebase, MongoDB, Tailwind, Express, Node
 
-**Features:** 
+**Features:**
 
 * Register users can add food donations.
 * Logged in users can request for food.
@@ -125,12 +136,10 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 
 **Technologies:** React, React Router Dom, Firebase, MongoDB, Tailwind, Express, Node
 
-**Features:** 
+**Features:**
 
-* New visitor can register to our website 
+* New visitor can register to our website
 * A register user can add product, edit product and delete product.
 * A register user can see a product details, and can add the product in the cart.
-
-<!-- ## Repository Contributions
-
-[![GitHub Trends SVG](https://api.githubtrends.io/ShariarNiaj05/svg/avgupta456/langs)](https://githubtrends.io) -->
+ -->
+<!-- ## Repository Contributions -->
