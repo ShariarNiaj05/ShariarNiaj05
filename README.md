@@ -14,8 +14,6 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 
 ## Connect Online
 
-<!-- [<p align="center"><img  href="mailto:shariarn85@gmail.com" height="75" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/gmail.png">](mailto:shariarn85@gmail.com
-)[<img height="75" src="https://github.com/ShariarNiaj05/ShariarNiaj05/blob/main/images/linkedin.png?raw=true">](https://www.linkedin.com/in/shariar-islam-niaj)[<img height="75" src="https://github.com/ShariarNiaj05/ShariarNiaj05/blob/main/images/x-logo.png?raw=true"> </p>](https://twitter.com/Shariar_Niaj)  -->
 
 <p align="center">
   <a href="mailto:shariarn85@gmail.com">
@@ -30,6 +28,14 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 
 </p>
 
+# Working Experience
+
+| Position      | Organization   | Employment Type | Duration           | Location               |
+| ------------- | -------------- | --------------- | ------------------ | ---------------------- |
+| Web Developer | Monster Studio | Internship      | Jan 2024 - Present | Chattogram, Bangladesh |
+
+<br/>
+
 ## Current Stats
 
 <p align="center">
@@ -38,13 +44,41 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
   </a>
 </p>
 
-## My Skills
+# ⚙ Explored Technologies
 
-<p align="center">
+## Language
+
+<img src="https://skillicons.dev/icons?i=js," />
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=react,tailwindcss,nextjs,materialui,firebase,redux	" />
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs" />
+
+## Database
+
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+## Tools
+
+<img src="https://skillicons.dev/icons?i=github,vscode,vite,vercel,postman,npm,yarn,notion,figma" />
+
+## Other Skills
+
+<img src="https://skillicons.dev/icons?i=wordpress" />
+
+## Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=ts" />
+
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,mongodb,nodejs,expressjs" />
   </a>
-</p>
+</p> -->
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,mongodb,nodejs,expressjs)](https://skillicons.dev) -->
 
@@ -103,6 +137,11 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 </table>
 </div>
 
+# 👨🏻‍🎓 Education
+
+| Institute                                   | Degree                                             | Session                |
+| ------------------------------------------- | -------------------------------------------------- | ---------------------- |
+| International Islamic University Chittagong | Bachelor of Computer Science and Engineering (CSE) | June 2018 - April 2023 |
 
 <!--
 ## About Recent Projects & Depth Overview
