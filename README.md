@@ -32,8 +32,6 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 
 ## Current Stats
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShariarNiaj05&theme=dark&card_width=700&background=45%2C1D020A%2C56061E&border=EB9C84)](https://git.io/streak-stats) -->
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ShariarNiaj05&theme=dark&card_width=700&background=45%2C1D020A%2C56061E&border=EB9C84" alt="GitHub Streak">
@@ -60,7 +58,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- First Profile Details Card: Top Languages by Repo - GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShariarNiaj05&theme=ocean_dark" alt="Profile Details"/></td>
+    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShariarNiaj05&theme=blueberry" alt="Profile Details"/></td>
   </tr>
 </table>
 
@@ -68,28 +66,29 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- First Profile Details Card: Top Languages by Repo - GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShariarNiaj05&theme=ocean_dark" alt="Repos per Language"/></td>
+    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShariarNiaj05&theme=blueberry" alt="Repos per Language"/></td>
     <!-- Second Profile Details Card: Top Languages by Commit - GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShariarNiaj05&theme=ocean_dark" alt="Most Commit Language"/></td>
+    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShariarNiaj05&theme=blueberry" alt="Most Commit Language"/></td>
   </tr>
 </table>
 
 <!-- 3rd row  -->
 <div style="display: flex; justify-content: center;"> 
-<table cellpadding="0">
+<p align="center"> <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="300" width="100%" src="https://api.githubtrends.io/user/svg/ShariarNiaj05/repos?time_range=six_months&theme=dark"/></td>
    
   </tr>
-</table>
+</table></p>
+
 </div>
 <!-- 4th row  -->
 
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- Third Profile Details Card: Top Stats -->  
-    <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShariarNiaj05&theme=ocean_dark" alt="GitHub Stats"/></td>
+    <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShariarNiaj05&theme=blueberry" alt="GitHub Stats"/></td>
     <!-- Fourth Profile Details Card: Commits -->
      <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShariarNiaj05&theme=blueberry&utcOffset=8"/></td>
   </tr>
@@ -99,7 +98,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 <div style="display: flex; justify-content: center;">
 <table cellpadding="0">
   <tr style="padding: 0">
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariarNiaj05&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariarNiaj05&langs_count=6&layout=compact&theme=blueberry&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
   </tr>
 </table>
 </div>
