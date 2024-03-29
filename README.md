@@ -14,7 +14,6 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 
 ## Connect Online
 
-
 <p align="center">
   <a href="mailto:shariarn85@gmail.com">
     <img height="75" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/gmail.png"> 
@@ -56,37 +55,89 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 <!-- <img src="https://skillicons.dev/icons?i=js," /> -->
 
 ## Frontend
+
 <p align="center">
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/React.js.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Next.js.jpg"/>
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Tailwind%20CSS.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Redux.jpg"/>
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/React%20Router.jpg"/>
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Tanstack%2C%20React%20Query.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Material%20UI.jpg"/>
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Daisy%20UI.jpg"/>
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Firebase.jpg"/>
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/JWT%20(JSON%20Web%20Token).jpg"/>
-</p> 
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Redux.jpg"/>
+</p>
 
 <!-- <img src="https://skillicons.dev/icons?i=react,tailwindcss,nextjs,materialui,firebase,redux" /> -->
 
 ## Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs" />
+<p align="center">
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Express.js.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Node.js.jpg"/>
+</p>
+
+<!-- <img src="https://skillicons.dev/icons?i=nodejs,expressjs" /> -->
+
+
+## APIs
+
+<p align="center">
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/RESTful%20API.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Axios.jpg"/>
+</p>
+
 
 ## Database
 
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<p align="center">
+<img height="150" src="
+https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/MongoDB.jpg"/>
+</p>
+
+## Payment Method
+
+<p align="center">
+<img height="150" src="
+https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Stripe.jpg"/>
+</p>
+
+<!-- <img src="https://skillicons.dev/icons?i=mongodb" /> -->
 
 ## Tools
 
-<img src="https://skillicons.dev/icons?i=github,vscode,vite,vercel,postman,npm,yarn,notion,figma" />
+<p align="center">
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Git.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Github.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Vercel.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/VS%20Code.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/npm.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Vite.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Figma.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Postman.jpg"/>
+</p>
+
+<!-- <img src="https://skillicons.dev/icons?i=github,vscode,vite,vercel,postman,npm,yarn,notion,figma" /> -->
 
 ## Other Skills
 
-<img src="https://skillicons.dev/icons?i=wordpress" />
+<p align="center">
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/WordPress.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/SEO.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Blogging.jpg"/>
+</p>
+
+<!-- <img src="https://skillicons.dev/icons?i=wordpress" /> -->
 
 ## Currently Exploring
+<p align="center">
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/TypeScript.jpg"/>
 
-<img src="https://skillicons.dev/icons?i=ts" />
+</p>
+
+<!-- <img src="https://skillicons.dev/icons?i=ts" /> -->
 
 <!-- <p align="center">
   <a href="https://skillicons.dev">
