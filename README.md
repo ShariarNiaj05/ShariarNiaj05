@@ -93,15 +93,13 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 ## Database
 
 <p align="center">
-<img height="150" src="
-https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/MongoDB.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/MongoDB.jpg"/>
 </p>
 
 ## Payment Method
 
 <p align="center">
-<img height="150" src="
-https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Stripe.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Stripe.jpg"/>
 </p>
 
 
