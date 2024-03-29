@@ -104,7 +104,6 @@ https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/MongoD
 https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Stripe.jpg"/>
 </p>
 
-<!-- <img src="https://skillicons.dev/icons?i=mongodb" /> -->
 
 ## Tools
 
