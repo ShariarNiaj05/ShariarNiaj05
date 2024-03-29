@@ -48,11 +48,25 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 
 ## Language
 
-<img src="https://skillicons.dev/icons?i=js," />
+<p align="center">
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/JavaScript.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/ES6.png"/>
+</p>
+
+<!-- <img src="https://skillicons.dev/icons?i=js," /> -->
 
 ## Frontend
+<p align="center">
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/React.js.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Tailwind%20CSS.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/React%20Router.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Tanstack%2C%20React%20Query.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Daisy%20UI.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Firebase.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/JWT%20(JSON%20Web%20Token).jpg"/>
+</p> 
 
-<img src="https://skillicons.dev/icons?i=react,tailwindcss,nextjs,materialui,firebase,redux" />
+<!-- <img src="https://skillicons.dev/icons?i=react,tailwindcss,nextjs,materialui,firebase,redux" /> -->
 
 ## Backend
 
