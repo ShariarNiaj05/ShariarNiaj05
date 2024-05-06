@@ -158,6 +158,14 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
   </tr>
 </table>
 
+<div style="display: flex; justify-content: center;">
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariarNiaj05&langs_count=6&layout=compact&theme=blueberry&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+  </tr>
+</table>
+</div>
+
 <!-- 2nd  row  -->
 <table cellpadding="0">
   <tr style="padding: 0">
@@ -191,13 +199,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 </table>
 
 <!-- 5th row  -->
-<div style="display: flex; justify-content: center;">
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariarNiaj05&langs_count=6&layout=compact&theme=blueberry&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
-  </tr>
-</table>
-</div>
+
 
 # 👨🏻‍🎓 Education
 
