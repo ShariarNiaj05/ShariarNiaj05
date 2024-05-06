@@ -81,14 +81,12 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 
 <!-- <img src="https://skillicons.dev/icons?i=nodejs,expressjs" /> -->
 
-
 ## APIs
 
 <p align="center">
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/RESTful%20API.jpg"/>
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Axios.jpg"/>
 </p>
-
 
 ## Database
 
@@ -101,7 +99,6 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 <p align="center">
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Stripe.jpg"/>
 </p>
-
 
 ## Tools
 
@@ -129,6 +126,7 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 <!-- <img src="https://skillicons.dev/icons?i=wordpress" /> -->
 
 ## Currently Exploring
+
 <p align="center">
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/TypeScript.jpg"/>
 
@@ -157,7 +155,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
     <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShariarNiaj05&theme=blueberry" alt="Profile Details"/></td>
   </tr>
 </table>
-
+<!-- 2nd row  -->
 <div style="display: flex; justify-content: center;">
 <table cellpadding="0">
   <tr style="padding: 0">
@@ -166,7 +164,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 </table>
 </div>
 
-<!-- 2nd  row  -->
+<!-- 3rd  row  -->
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- First Profile Details Card: Top Languages by Repo - GitHub Stats Card -->  
@@ -176,7 +174,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
   </tr>
 </table>
 
-<!-- 3rd row  -->
+<!-- 4th row  -->
 <div style="display: flex; justify-content: center;"> 
 <p align="center"> <table cellpadding="0">
   <tr style="padding: 0">
@@ -187,7 +185,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 </table></p>
 
 </div>
-<!-- 4th row  -->
+<!-- 5th row  -->
 
 <table cellpadding="0">
   <tr style="padding: 0">
@@ -198,14 +196,11 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
   </tr>
 </table>
 
-<!-- 5th row  -->
-
-
 # 👨🏻‍🎓 Education
 
-| Institute                                   | Degree                                             | Session                |
+| Degree                                   | Institute                                            | Session                |
 | ------------------------------------------- | -------------------------------------------------- | ---------------------- |
-| International Islamic University Chittagong | Bachelor of Computer Science and Engineering (CSE) | June 2018 - April 2023 |
+| Bachelor of Computer Science and Engineering (CSE)  | International Islamic University Chittagong| June 2018 - April 2023 |
 
 <!--
 ## About Recent Projects & Depth Overview
