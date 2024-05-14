@@ -29,9 +29,10 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 
 # Working Experience
 
-| Position      | Organization   | Employment Type | Duration           | Location               |
-| ------------- | -------------- | --------------- | ------------------ | ---------------------- |
-| Web Developer | Monster Studio | Internship      | Jan 2024 - Present | Chattogram, Bangladesh |
+| Position      | Organization   | Employment Type | Duration           |
+| ------------- | -------------- | --------------- | ------------------ |
+| Software Engineer | OctopusX | Full Time      | April 2024 - Present |
+| Web Developer | Monster Studio | Internship      | Jan 2024 - April 2024 |
 
 <br/>
 
