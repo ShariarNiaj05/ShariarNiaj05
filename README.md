@@ -199,9 +199,9 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 
 # 👨🏻‍🎓 Education
 
-| Degree                                   | Institute                                            | Session                |
+| Degree                                   | Institute                                            | Year                |
 | ------------------------------------------- | -------------------------------------------------- | ---------------------- |
-| Bachelor of Computer Science and Engineering (CSE)  | International Islamic University Chittagong| June 2018 - April 2023 |
+| Bachelor of Computer Science and Engineering (CSE)  | International Islamic University Chittagong| April 2023 |
 
 <!--
 ## About Recent Projects & Depth Overview
