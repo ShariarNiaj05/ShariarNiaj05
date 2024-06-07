@@ -171,7 +171,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
     <!-- First Profile Details Card: Top Languages by Repo - GitHub Stats Card -->  
     <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShariarNiaj05&theme=blueberry" alt="Repos per Language"/></td>
     <!-- Second Profile Details Card: Top Languages by Commit - GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShariarNiaj05&theme=blueberry" alt="Most Commit Language"/></td>
+    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShariarNiaj05&theme=maroongold" alt="Most Commit Language"/></td>
   </tr>
 </table>
 
