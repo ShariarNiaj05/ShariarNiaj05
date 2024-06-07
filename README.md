@@ -180,7 +180,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 <p align="center"> <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="300" width="100%" src="https://api.githubtrends.io/user/svg/ShariarNiaj05/repos?time_range=six_months&theme=dark"/></td>
+    <td valign="top"><img height="300" width="100%" src="https://api.githubtrends.io/user/svg/ShariarNiaj05/repos?time_range=one_year&theme=synthwaves"/></td>
    
   </tr>
 </table></p>
