@@ -1,4 +1,4 @@
-# Check Out My Coding Endeavors
+# Check Out My Coding Endeavors ![](https://komarev.com/ghpvc/?username=ShariarNiaj05&color=#2E0310)
 
 <code>I encourage you to check out my GitHub for a closer look at my coding endeavors and the projects I've worked on.</code>
 
