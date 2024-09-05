@@ -1,6 +1,6 @@
 # Check Out My Coding Endeavors ![](https://komarev.com/ghpvc/?username=ShariarNiaj05&color=2E0310&style=flat-square)
 
-<code>I encourage you to check out my GitHub for a closer look at my coding endeavors and the projects I've worked on.</code>
+<code>Welcome to my GitHub space where I bring ideas to life through lines of code. Feel free to explore and connect! 😊🚀</code>
 
 <!-- ![Github Cover Image!](https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/github-cover-image.png "Shariar Islam Github Cover Image") -->
 <div align="center">
@@ -20,8 +20,6 @@
 </div>
 
 <div align='center'>
-
-Welcome to my GitHub space where I bring ideas to life through lines of code. Feel free to explore and connect! 😊🚀
 
 ## About Me & My Vision
 
