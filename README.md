@@ -54,6 +54,8 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 <p align="center">
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/JavaScript.png"/>
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/ES6.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/TypeScript.jpg"/>
+
 </p>
 
 <!-- <img src="https://skillicons.dev/icons?i=js," /> -->
@@ -129,12 +131,7 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 
 <!-- <img src="https://skillicons.dev/icons?i=wordpress" /> -->
 
-## Currently Exploring
-
-<p align="center">
-<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/TypeScript.jpg"/>
-
-</p>
+<!-- ## Currently Exploring -->
 
 <!-- <img src="https://skillicons.dev/icons?i=ts" /> -->
 
