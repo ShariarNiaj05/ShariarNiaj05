@@ -164,6 +164,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 
 ## Overall Stats
 
+<div align='center'>
 <!-- First row  -->
 <table cellpadding="0">
   <tr style="padding: 0">
@@ -212,6 +213,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
   </tr>
 </table>
 
+<div>
 # 👨🏻‍🎓 Education
 
 | Degree                                             | Institute                                   | Year       |
