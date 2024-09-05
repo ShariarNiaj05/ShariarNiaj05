@@ -214,6 +214,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 </table>
 
 <div>
+
 # 👨🏻‍🎓 Education
 
 | Degree                                             | Institute                                   | Year       |
