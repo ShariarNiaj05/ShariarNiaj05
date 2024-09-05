@@ -1,4 +1,4 @@
-# Check Out My Coding Endeavors
+# Check Out My Coding Endeavors ![](https://komarev.com/ghpvc/?username=ShariarNiaj05&color=2E0310&style=flat-square)
 
 <code>I encourage you to check out my GitHub for a closer look at my coding endeavors and the projects I've worked on.</code>
 
@@ -35,11 +35,12 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 
 </p>
 
-# Working Experience
+ <!-- # Working Experience -->
 
-| Position      | Organization   | Employment Type | Duration           | Location               |
-| ------------- | -------------- | --------------- | ------------------ | ---------------------- |
-| Web Developer | Monster Studio | Internship      | Jan 2024 - Present | Chattogram, Bangladesh |
+<!-- | Position      | Organization   | Employment Type | Duration           |
+| ------------- | -------------- | --------------- | ------------------ |
+| Software Engineer | OctopusX | Full Time      | April 2024 - Present |
+| Web Developer | Monster Studio | Internship      | Jan 2024 - April 2024 | -->
 
 <br/>
 
@@ -160,14 +161,14 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- First Profile Details Card: Top Languages by Repo - GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShariarNiaj05&theme=blueberry" alt="Profile Details"/></td>
+    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShariarNiaj05&theme=maroongold" alt="Profile Details"/></td>
   </tr>
 </table>
 <!-- 2nd row  -->
 <div style="display: flex; justify-content: center;">
 <table cellpadding="0">
   <tr style="padding: 0">
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariarNiaj05&langs_count=6&layout=compact&theme=blueberry&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariarNiaj05&langs_count=6&layout=compact&theme=maroongold&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
   </tr>
 </table>
 </div>
@@ -176,9 +177,9 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- First Profile Details Card: Top Languages by Repo - GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShariarNiaj05&theme=blueberry" alt="Repos per Language"/></td>
+    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShariarNiaj05&theme=maroongold" alt="Repos per Language"/></td>
     <!-- Second Profile Details Card: Top Languages by Commit - GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShariarNiaj05&theme=blueberry" alt="Most Commit Language"/></td>
+    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShariarNiaj05&theme=maroongold" alt="Most Commit Language"/></td>
   </tr>
 </table>
 
@@ -187,7 +188,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 <p align="center"> <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="300" width="100%" src="https://api.githubtrends.io/user/svg/ShariarNiaj05/repos?time_range=six_months&theme=dark"/></td>
+    <td valign="top"><img height="300" width="100%" src="https://api.githubtrends.io/user/svg/ShariarNiaj05/repos?time_range=one_year&theme=synthwaves"/></td>
    
   </tr>
 </table></p>
@@ -198,17 +199,17 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- Third Profile Details Card: Top Stats -->  
-    <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShariarNiaj05&theme=blueberry" alt="GitHub Stats"/></td>
+    <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShariarNiaj05&theme=maroongold" alt="GitHub Stats"/></td>
     <!-- Fourth Profile Details Card: Commits -->
-     <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShariarNiaj05&theme=blueberry&utcOffset=8"/></td>
+     <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShariarNiaj05&theme=maroongold&utcOffset=8"/></td>
   </tr>
 </table>
 
 # 👨🏻‍🎓 Education
 
-| Degree                                             | Institute                                   | Session                |
-| -------------------------------------------------- | ------------------------------------------- | ---------------------- |
-| Bachelor of Computer Science and Engineering (CSE) | International Islamic University Chittagong | June 2018 - April 2023 |
+| Degree                                             | Institute                                   | Year       |
+| -------------------------------------------------- | ------------------------------------------- | ---------- |
+| Bachelor of Computer Science and Engineering (CSE) | International Islamic University Chittagong | April 2023 |
 
 <!--
 ## About Recent Projects & Depth Overview
