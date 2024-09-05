@@ -4,11 +4,17 @@
 
 <!-- ![Github Cover Image!](https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/github-cover-image.png "Shariar Islam Github Cover Image") -->
 <div align="center">
-<a href="https://app.daily.dev/shariarislam"><img src="https://api.daily.dev/devcards/v2/VzIq43FTtucx4ciSOg2qa.png?type=wide&r=6y8" width="652" alt="Shariar Islam's Dev Card"/></a>
+<a href="https://app.daily.dev/shariarislam"><img src="https://api.daily.dev/devcards/v2/VzIq43FTtucx4ciSOg2qa.png?type=wide&r=6y8" width="800" alt="Shariar Islam's Dev Card"/></a>
   <br>
 </div>
 <br>
 <br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shariarn85@gmail.com)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShariarNiaj05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shariar-islam-niaj)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shariar_islam)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Shariar_Niaj)
 
 <div align='center'>
 
@@ -20,20 +26,20 @@ I'm Shariar Islam, a web developer with a passion for bringing ideas to life thr
 
 In the ever-evolving web landscape, my vision is to contribute to user-friendly and accessible digital experiences. I aim to bridge the gap between creativity and technology, ensuring that every line of code I write serves a purpose in delivering seamless web solutions. Let's embark on this coding journey together!
 
-## Connect Online
+<!-- ## Connect Online
 
 <p align="center">
   <a href="mailto:shariarn85@gmail.com">
-    <img height="75" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/gmail.png"> 
+    <img height="75" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/gmail.png">
   </a>
     <a href="https://www.linkedin.com/in/shariar-islam-niaj">
-    <img height="75" src="https://github.com/ShariarNiaj05/ShariarNiaj05/blob/main/images/linkedin.png?raw=true"> 
+    <img height="75" src="https://github.com/ShariarNiaj05/ShariarNiaj05/blob/main/images/linkedin.png?raw=true">
   </a>
     <a href="https://twitter.com/Shariar_Niaj">
-    <img height="75" src="https://github.com/ShariarNiaj05/ShariarNiaj05/blob/main/images/x-logo.png?raw=true"> 
+    <img height="75" src="https://github.com/ShariarNiaj05/ShariarNiaj05/blob/main/images/x-logo.png?raw=true">
   </a>
 
-</p>
+</p> -->
 
  <!-- # Working Experience -->
 
