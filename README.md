@@ -213,7 +213,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
   </tr>
 </table>
 
-<div>
+</div>
 
 # 👨🏻‍🎓 Education
 
