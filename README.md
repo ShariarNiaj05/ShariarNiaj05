@@ -2,7 +2,15 @@
 
 <code>I encourage you to check out my GitHub for a closer look at my coding endeavors and the projects I've worked on.</code>
 
-![Github Cover Image!](https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/github-cover-image.png "Shariar Islam Github Cover Image")
+<!-- ![Github Cover Image!](https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/github-cover-image.png "Shariar Islam Github Cover Image") -->
+<div align="center">
+<a href="https://app.daily.dev/shariarislam"><img src="https://api.daily.dev/devcards/v2/VzIq43FTtucx4ciSOg2qa.png?type=wide&r=6y8" width="652" alt="Shariar Islam's Dev Card"/></a>
+  <br>
+</div>
+<br>
+<br>
+
+<div align='center'>
 
 Welcome to my GitHub space where I bring ideas to life through lines of code. Feel free to explore and connect! 😊🚀
 
@@ -198,9 +206,9 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 
 # 👨🏻‍🎓 Education
 
-| Degree                                   | Institute                                            | Session                |
-| ------------------------------------------- | -------------------------------------------------- | ---------------------- |
-| Bachelor of Computer Science and Engineering (CSE)  | International Islamic University Chittagong| June 2018 - April 2023 |
+| Degree                                             | Institute                                   | Session                |
+| -------------------------------------------------- | ------------------------------------------- | ---------------------- |
+| Bachelor of Computer Science and Engineering (CSE) | International Islamic University Chittagong | June 2018 - April 2023 |
 
 <!--
 ## About Recent Projects & Depth Overview
