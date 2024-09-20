@@ -7,8 +7,6 @@
 
 <!-- ![Github Cover Image!](https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/github-cover-image.png "Shariar Islam Github Cover Image") -->
 
-<!-- <a href="https://app.daily.dev/shariarislam"><img src="https://api.daily.dev/devcards/v2/VzIq43FTtucx4ciSOg2qa.png?type=wide&r=6y8" width="800" alt="Shariar Islam's Dev Card"/></a> -->
-
 </div>
 <br>
 <br>
