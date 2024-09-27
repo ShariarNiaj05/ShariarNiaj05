@@ -193,7 +193,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
     <!-- Third Profile Details Card: Top Stats -->  
     <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShariarNiaj05&theme=maroongold" alt="GitHub Stats"/></td>
     <!-- Fourth Profile Details Card: Commits -->
-     <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShariarNiaj05&theme=maroongold&utcOffset=8"/></td>
+     <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShariarNiaj05&theme=maroongold&utcOffset=6"/></td>
   </tr>
 </table>
 
