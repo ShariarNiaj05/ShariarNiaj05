@@ -29,7 +29,7 @@ I'm Shariar Islam, a web developer with a passion for bringing ideas to life thr
 
 In the ever-evolving web landscape, my vision is to contribute to user-friendly and accessible digital experiences. I aim to bridge the gap between creativity and technology, ensuring that every line of code I write serves a purpose in delivering seamless web solutions. Let's embark on this coding journey together!
 
- <!-- # Working Experience -->
+ <!-- # Working Experience! -->
 
 <!-- | Position      | Organization   | Employment Type | Duration           |
 | ------------- | -------------- | --------------- | ------------------ |
