@@ -34,7 +34,7 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 <!-- | Position      | Organization   | Employment Type | Duration           |
 | ------------- | -------------- | --------------- | ------------------ |
 | Software Engineer | OctopusX | Full Time      | April 2024 - Present |
-| Web Developer | Monster Studio | Internship      | Jan 2024 - April 2024 | -->
+| Full-Stack Developer | Monster Studio | Internship      | Jan 2024 - April 2024 | -->
 
 <br/>
 
