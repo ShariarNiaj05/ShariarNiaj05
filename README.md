@@ -25,9 +25,9 @@
 
 ## About Me & My Vision
 
-I'm Shariar Islam, a web developer with a passion for bringing ideas to life through code. I enjoy the intricacies of web development, creating visually appealing and functional digital spaces.
+I'm Shariar Islam, a Software Engineer passionate about bringing ideas to life through code. I enjoy the intricacies of web development, creating visually appealing and functional digital spaces.
 
-In the ever-evolving web landscape, my vision is to contribute to user-friendly and accessible digital experiences. I aim to bridge the gap between creativity and technology, ensuring that every line of code I write serves a purpose in delivering seamless web solutions. Let's embark on this coding journey together!
+In the ever-evolving web landscape, my vision is to contribute to user-friendly and accessible digital experiences. I aim to bridge the gap between creativity and technology, ensuring that every line of code I write delivers seamless web solutions. Let's embark on this coding journey together!
 
  <!-- # Working Experience! -->
 
@@ -144,7 +144,7 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 
 ## Work Synopsis
 
-I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind CSS, and JavaScript. Proficient in React and React Router DOM, Firebase for seamless front-end experiences, I integrate APIs, and MongoDB with Node.js and Express.js on the backend. My work revolves around creating secured, responsive, and feature-rich digital solutions.
+I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind CSS, and JavaScript. Proficient in React, React Router DOM, and Firebase for seamless front-end experiences, I integrate APIs, and MongoDB with Node.js and Express.js on the backend. My work revolves around creating secure, responsive, and feature-rich digital solutions.
 
 ## Overall Stats
 
