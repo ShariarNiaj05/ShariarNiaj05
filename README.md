@@ -21,8 +21,6 @@
 
 </div>
 
-<!-- <div align='center'> -->
-
 ## About Me & My Vision
 
 I'm Shariar Islam, a Software Engineer passionate about bringing ideas to life through code. I enjoy the intricacies of web development, creating visually appealing and functional digital spaces.
