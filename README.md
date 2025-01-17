@@ -106,8 +106,6 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Postman.jpg"/>
 </p>
 
-<!-- <img src="https://skillicons.dev/icons?i=github,vscode,vite,vercel,postman,npm,yarn,notion,figma" /> -->
-
 ## Other Skills
 
 <p align="center">
