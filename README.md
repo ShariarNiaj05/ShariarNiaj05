@@ -66,13 +66,6 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Next.js.jpg"/>
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Tailwind%20CSS.jpg"/>
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Redux.jpg"/>
-<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/React%20Router.jpg"/>
-<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Tanstack%2C%20React%20Query.jpg"/>
-<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Material%20UI.jpg"/>
-<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Daisy%20UI.jpg"/>
-<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Firebase.jpg"/>
-<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/JWT%20(JSON%20Web%20Token).jpg"/>
-<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Redux.jpg"/>
 </p>
 
 <!-- <img src="https://skillicons.dev/icons?i=react,tailwindcss,nextjs,materialui,firebase,redux" /> -->
@@ -82,6 +75,7 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 <p align="center">
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Express.js.jpg"/>
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Node.js.jpg"/>
+<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/MongoDB.jpg"/>
 </p>
 
 <!-- <img src="https://skillicons.dev/icons?i=nodejs,expressjs" /> -->
@@ -93,11 +87,7 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 <img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/Axios.jpg"/>
 </p>
 
-## Database
-
-<p align="center">
-<img height="150" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/MongoDB.jpg"/>
-</p>
+<!-- ## Database -->
 
 ## Payment Method
 
