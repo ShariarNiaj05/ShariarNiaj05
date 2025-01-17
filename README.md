@@ -3,7 +3,7 @@
 <code>I encourage you to check out my GitHub for a closer look at my coding endeavors and the projects I've worked on.</code>
 
 <div align="center">
-<a href="https://app.daily.dev/shariarislam"><img src="https://api.daily.dev/devcards/v2/VzIq43FTtucx4ciSOg2qa.png?type=wide&r=hfj" width="700" alt="Shariar Islam's Dev Card"/></a>
+<a href="https://app.daily.dev/shariarislam"><img src="https://api.daily.dev/devcards/v2/VzIq43FTtucx4ciSOg2qa.png?type=wide&r=e69" width="720" alt="Shariar Islam's Dev Card"/></a>
 
 <!-- ![Github Cover Image!](https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/main/images/github-cover-image.png "Shariar Islam Github Cover Image") -->
 
@@ -21,20 +21,18 @@
 
 </div>
 
-<!-- <div align='center'> -->
-
 ## About Me & My Vision
 
-I'm Shariar Islam, a web developer with a passion for bringing ideas to life through code. I enjoy the intricacies of web development, creating visually appealing and functional digital spaces.
+I'm Shariar Islam, a Software Engineer passionate about bringing ideas to life through code. I enjoy the intricacies of web development, creating visually appealing and functional digital spaces.
 
-In the ever-evolving web landscape, my vision is to contribute to user-friendly and accessible digital experiences. I aim to bridge the gap between creativity and technology, ensuring that every line of code I write serves a purpose in delivering seamless web solutions. Let's embark on this coding journey together!
+In the ever-evolving web landscape, my vision is to contribute to user-friendly and accessible digital experiences. I aim to bridge the gap between creativity and technology, ensuring that every line of code I write delivers seamless web solutions. Let's embark on this coding journey together!
 
- <!-- # Working Experience -->
+ <!-- # Working Experience! -->
 
 <!-- | Position      | Organization   | Employment Type | Duration           |
 | ------------- | -------------- | --------------- | ------------------ |
 | Software Engineer | OctopusX | Full Time      | April 2024 - Present |
-| Web Developer | Monster Studio | Internship      | Jan 2024 - April 2024 | -->
+| Full-Stack Developer | Monster Studio | Internship      | Jan 2024 - April 2024 | -->
 
 <br/>
 
@@ -134,7 +132,7 @@ In the ever-evolving web landscape, my vision is to contribute to user-friendly 
 
 ## Work Synopsis
 
-I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind CSS, and JavaScript. Proficient in React and React Router DOM, Firebase for seamless front-end experiences, I integrate APIs, and MongoDB with Node.js and Express.js on the backend. My work revolves around creating secured, responsive, and feature-rich digital solutions.
+I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind CSS, and JavaScript. Proficient in React, React Router DOM, and Firebase for seamless front-end experiences, I integrate APIs, and MongoDB with Node.js and Express.js on the backend. My work revolves around creating secure, responsive, and feature-rich digital solutions.
 
 ## Overall Stats
 
@@ -183,7 +181,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
     <!-- Third Profile Details Card: Top Stats -->  
     <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShariarNiaj05&theme=maroongold" alt="GitHub Stats"/></td>
     <!-- Fourth Profile Details Card: Commits -->
-     <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShariarNiaj05&theme=maroongold&utcOffset=8"/></td>
+     <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShariarNiaj05&theme=maroongold&utcOffset=6"/></td>
   </tr>
 </table>
 
