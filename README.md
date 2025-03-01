@@ -190,3 +190,14 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 | Degree                                             | Institute                                   | Year       |
 | -------------------------------------------------- | ------------------------------------------- | ---------- |
 | Bachelor of Computer Science and Engineering (CSE) | International Islamic University Chittagong | April 2023 |
+
+## Achievements
+
+<p align="center">
+<img height="450" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/refs/heads/main/images/git-wrapped-shariarniaj05-2024.png"/>
+</p>
+
+<p align="center">
+<img height="250" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/refs/heads/main/images/February%202025%20Top%20Reader%20in%20Platform%20Engineering.png"/>
+<img height="250" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/refs/heads/main/images/October%202024%20Top%20Reader%20in%20Community.png"/>
+</p>
