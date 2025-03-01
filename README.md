@@ -194,7 +194,7 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 ## Achievements
 
 <p align="center">
-<img height="450" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/refs/heads/main/images/git-wrapped-shariarniaj05-2024.png"/>
+<img height="650" src="https://raw.githubusercontent.com/ShariarNiaj05/ShariarNiaj05/refs/heads/main/images/git-wrapped-shariarniaj05-2024.png"/>
 </p>
 
 <p align="center">
