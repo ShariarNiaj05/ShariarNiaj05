@@ -186,10 +186,11 @@ I specialize in framing dynamic web applications, leveraging HTML, CSS, Tailwind
 </div>
 
 # 👨🏻‍🎓 Education
-
+<!-- 
 | Degree                                             | Institute                                   | Year       |
 | -------------------------------------------------- | ------------------------------------------- | ---------- |
 | Bachelor of Computer Science and Engineering (CSE) | International Islamic University Chittagong | April 2023 |
+-->
 
 ## Achievements
 
