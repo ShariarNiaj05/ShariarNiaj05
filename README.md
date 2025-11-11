@@ -23,9 +23,17 @@
 
 ## About Me & My Vision
 
-I'm Shariar Islam, a Software Engineer passionate about bringing ideas to life through code. I enjoy the intricacies of web development, creating visually appealing and functional digital spaces.
+I'm Shariar Islam, a  **backend-focused full stack developer** with over **3 years of experience** building modern, fast, and scalable web applications.
 
-In the ever-evolving web landscape, my vision is to contribute to user-friendly and accessible digital experiences. I aim to bridge the gap between creativity and technology, ensuring that every line of code I write delivers seamless web solutions. Let's embark on this coding journey together!
+I enjoy creating clean, efficient systems that solve real problems and make life easier for users.
+
+Most of my work revolves around **backend development**, API design, and database optimization, but I also love crafting smooth, responsive interfaces that bring ideas to life.  
+
+I enjoy improving performance, code quality, and developer experience.
+
+I value teamwork, simple code, and continuous learning, things that help projects grow and teams thrive.  
+
+I aim to bridge the gap between creativity and technology!
 
  <!-- # Working Experience! -->
 
