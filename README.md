@@ -27,7 +27,7 @@ I'm Shariar Islam, a  **backend-focused full stack developer** with over **3 yea
 
 I enjoy creating clean, efficient systems that solve real problems and make life easier for users.
 
-Most of my work revolves around **backend development**, API design, and database optimization, but I also love crafting smooth, responsive interfaces that bring ideas to life.  
+Most of my work revolves around **backend development**, API design, and database optimization, but I also love creating smooth, responsive interfaces that bring ideas to life.  
 
 I enjoy improving performance, code quality, and developer experience.
 
